@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v3
         name: "Download grader scripts"
         with:
-          repository: Utah-CS3550-Fall-2023/autotester
+          repository: utah-cs3550-fa24/autotester
           path: autotester
           ref: main
       - name: Load homework info
