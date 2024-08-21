@@ -1,8 +1,8 @@
 Your assignment repository
 ==========================
 
-Please use this repository to hold all of your work for CS 4470
-compilers. You will submit your assigments, and they will be graded,
+Please use this repository to hold all of your work for CS 3550
+web dev 1. You will submit your assigments, and they will be graded,
 using the contents of this repository only, at the commit
 corresponding to the latest possible submission time (including
 all granted extensions).
